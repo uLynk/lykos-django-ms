@@ -1,0 +1,7 @@
+.env
+traefik.yaml
+docker-compose.yaml
+jwt-middleware.yaml
+docker-compose.yml
+
+prompt.md
